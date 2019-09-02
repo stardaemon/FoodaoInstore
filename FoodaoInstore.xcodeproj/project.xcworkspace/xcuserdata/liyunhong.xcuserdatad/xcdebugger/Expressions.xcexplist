@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainMenuViewController.collectionView(_:cellForItemAt:):MainMenuViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.allDishes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainMenuViewController.collectionView(_:viewForSupplementaryElementOfKind:at:):MainMenuViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(indexPath as NSIndexPath).section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainMenuViewController.tableView(_:didSelectRowAt:):MainMenuViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.drinks!.categoryDishes![2]">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

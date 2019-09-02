@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "OrderDishTableViewCell.awakeFromNib():OrderDishTableViewCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OrderDishTableViewCell.count(_:):OrderDishTableViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "number">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DetailViewController.tableView(_:cellForRowAt:):DetailViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MainMenuViewController.addToCart(dish:):MainMenuViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.orders">
+            </PersistentString>
+            <PersistentString
+               value = "uniqueDishesDictionary[dish]">
+            </PersistentString>
+            <PersistentString
+               value = "uniqueDishesDictionary">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainMenuViewController.tableView(_:numberOfRowsInSection:):MainMenuViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.orders.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainMenuViewController.tableView(_:cellForRowAt:):MainMenuViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "orders[indexPath.row]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
